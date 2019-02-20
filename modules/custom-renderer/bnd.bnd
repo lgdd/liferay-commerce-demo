@@ -1,0 +1,4 @@
+Bundle-Name: Commerce Custom Renderers
+Bundle-SymbolicName: com.github.lgdd.liferay.commerce.renderer
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-custom-renderers
