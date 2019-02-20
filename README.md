@@ -9,3 +9,7 @@ Liferay Commerce 1.1.1
 - Product Renderers (Detail & Search Results) 
 - Low Inventory Action
 - Checkout Step
+
+## License
+
+[MIT](LICENSE)
